@@ -56,8 +56,8 @@
 }
 
 img{
-  right: 140px;
-  top: 90px;
+  right: 105px;
+  top: 15px;
 height: 100px;
  width: 100px;
  border-radius: 50px;
@@ -73,7 +73,7 @@ height: 100px;
 .about1 {
   -webkit-text-fill-color: darkblue;
   position: absolute;
-  left: 13%;
+  left: 10%;
   top: 64%;
 }
 
